@@ -71,18 +71,26 @@ Values counts in left column:
 
 
 Encoded dataset:
+
 ![img5](https://user-images.githubusercontent.com/87663343/173234527-7a810f2e-9859-4da1-ad40-6af633c9ebd7.png)
 
+
 X set:
+
 ![img6](https://user-images.githubusercontent.com/87663343/173234554-310937f7-6252-423b-96e0-fcf88840e85b.png)
 
 Y values:
+
 ![img7](https://user-images.githubusercontent.com/87663343/173234580-8f749de5-cfd2-499d-bac7-d2dea58ca7ec.png)
 
+
 Accuracy score:
+
 ![img8](https://user-images.githubusercontent.com/87663343/173234599-039d9846-0280-4628-bf62-44f7014c7123.png)
 
+
 Dataset Prediction:
+
 ![img9](https://user-images.githubusercontent.com/87663343/173234635-8a302428-a93e-4121-9382-ea455dd65237.png)
 
 
