@@ -52,14 +52,17 @@ dt.predict([[.5,.8,9,260,6,0,1,2]])
 
 ## Output:
 Initial dataset:
+
 ![image1](https://user-images.githubusercontent.com/87663343/173234345-825dd077-46ee-46a7-b4a1-da5829eb11dc.png)
 
 
 Dataset Information:
+
 ![img2](https://user-images.githubusercontent.com/87663343/173234397-8e4f8bd6-7eac-4cd6-a762-3000603ed5a7.png)
 
 
 Null dataset:
+
 ![img3](https://user-images.githubusercontent.com/87663343/173234434-b16019d3-71cb-498e-9c0e-5713440e8c24.png)
 
 
